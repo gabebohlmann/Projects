@@ -1,4 +1,4 @@
-  #include <Adafruit_NeoPixel.h>
+#include <Adafruit_NeoPixel.h>
 #include <AudioAnalyzer.h>
 
 //LED data pin output
